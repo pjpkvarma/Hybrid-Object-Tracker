@@ -15,7 +15,6 @@ This project presents a robust hybrid visual tracking system for UAV (drone) vid
 Hybrid-Drone-Tracker/
 ├── main.py               # Main tracking script combining YOLO + KCF
 ├── kcf.py                # APCE-enhanced KCF tracker implementation
-├── crazy_yolo.pt         # YOLOv8 model weights (to be added by user)
 └── README.md             # Project documentation
 ```
 
