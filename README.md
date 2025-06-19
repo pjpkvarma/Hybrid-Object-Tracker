@@ -1,4 +1,4 @@
-# 🛰️ Hybrid Drone Tracker: YOLOv8 + KCF with APCE-based Reinitialization
+# 🛰️ Hybrid Drone Tracker: YOLO + KCF with APCE-based Reinitialization
 
 This project presents a robust hybrid visual tracking system for UAV (drone) videos by combining **YOLOv8 object detection** with **Kernelized Correlation Filter (KCF)** tracking, enhanced by the **APCE (Average Peak-to-Correlation Energy)** metric. The system alternates between detection and tracking based on the reliability of the correlation response, ensuring efficient and stable tracking across video frames.
 
